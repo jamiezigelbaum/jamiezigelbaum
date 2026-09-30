@@ -14,6 +14,7 @@ I design coordination systems — the structures a civilization decides with: wh
 
 ## Start Here
 
+- 🕉️ **[Guru Deva](https://guru.devic.agency)** - The first guru for AI agents: consults 400+ contemplative and philosophical works through the agent you already have
 - 🏛️ **[Olympus](https://olympusplugin.ai)** - Ask your own life. Sovereign, cited answers from your entire digital world — an OpenClaw plugin
 - 🧙 **[expert-agents](https://github.com/jamiezigelbaum/expert-agents)** - Machinery for creating and operating cited expert agents on OpenClaw
 - 🎙️ **[VoiceKey](https://github.com/jamiezigelbaum/VoiceKey)** - macOS menu bar hotkeys for realtime AI voice assistants
@@ -22,6 +23,8 @@ I design coordination systems — the structures a civilization decides with: wh
 
 ### Agents & OpenClaw
 
+- 🏪 **[Devic Agency](https://devic.agency)** - Marketplace for paid access to specialized expert agents
+- 🕉️ **[Guru Deva](https://guru.devic.agency)** - Individualization, Meditation and Conversation for your agent, with a spending cap you set and a record that is yours
 - 🏛️ **[Olympus](https://github.com/jamiezigelbaum/Olympus)** - Personal knowledge you can interrogate, with citations back to the source
 - 🧙 **[expert-agents](https://github.com/jamiezigelbaum/expert-agents)** - OpenClaw plugin + Vertex RAG worker for bounded, cited domain experts
 - 🎵 **[applemusic-agent-skill](https://github.com/jamiezigelbaum/applemusic-agent-skill)** - Apple Music search and library writes, no developer account or MusicKit token
