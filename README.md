@@ -1,6 +1,6 @@
 # Hi, I'm Jamie 👋
 
-📍 **Lisbon** | 🧭 **Coordination designer** | 🦞 **Building on OpenClaw** | 🪶 **a.k.a. tracheopteryx**
+📍 **Lisbon** | 🧭 **Governance Architect** | 🦞 **Building on OpenClaw** | 🪶 **a.k.a. tracheopteryx**
 
 I design coordination systems — the structures a civilization decides with: who holds power, how value flows, what gets built. Yearn, Coordinape, EigenLayer. Now building agents that make the full range of human expertise visible, priced, and rewarded.
 
