@@ -63,4 +63,4 @@ Every human being has a gift to offer. Our economics can barely see most of them
 
 If you're working on how humans coordinate, write to me.
 
-🌐 [jamiezigelbaum.com](https://jamiezigelbaum.com) · 🐦 [@zigelbaum](https://x.com/zigelbaum) · ✉️ info@jamiezigelbaum.com
+🌐 [jamiezigelbaum.com](https://jamiezigelbaum.com) · 🐦 [@tracheopteryx](https://x.com/tracheopteryx) · ✉️ info@jamiezigelbaum.com
